@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "🍟 Starters",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "title": "🍝 Pastas",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "title": "🍕 Pizzas",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "title": "🍔 Burgers",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "title": "🍩 Deserts",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "title": "🥗 Salads",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "title": "🍖 Grilled Meat",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "title": "🍗 Chicken",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "title": "🥤 Cold Drinks",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "title": "☕ Hot Drinks",
+    "isActive": true
+  }
+]
