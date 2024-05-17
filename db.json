@@ -23,30 +23,5 @@
     "id": 5,
     "title": "🍩 Deserts",
     "isActive": true
-  },
-  {
-    "id": 6,
-    "title": "🥗 Salads",
-    "isActive": true
-  },
-  {
-    "id": 7,
-    "title": "🍖 Grilled Meat",
-    "isActive": true
-  },
-  {
-    "id": 8,
-    "title": "🍗 Chicken",
-    "isActive": true
-  },
-  {
-    "id": 9,
-    "title": "🥤 Cold Drinks",
-    "isActive": true
-  },
-  {
-    "id": 10,
-    "title": "☕ Hot Drinks",
-    "isActive": true
   }
 ]
