@@ -1,27 +1,63 @@
-[
-  {
-    "id": 1,
-    "title": "🍟 Starters",
-    "isActive": true
-  },
-  {
-    "id": 2,
-    "title": "🍝 Pastas",
-    "isActive": true
-  },
-  {
-    "id": 3,
-    "title": "🍕 Pizzas",
-    "isActive": true
-  },
-  {
-    "id": 4,
-    "title": "🍔 Burgers",
-    "isActive": true
-  },
-  {
-    "id": 5,
-    "title": "🍩 Deserts",
-    "isActive": true
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "High performance laptop",
+      "price": 1200.99,
+      "category": "Electronics",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Latest model smartphone",
+      "price": 999.99,
+      "category": "Electronics",
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Noise-cancelling headphones",
+      "price": 199.99,
+      "category": "Accessories",
+      "stock": 50
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "productIds": [1, 3],
+      "totalAmount": 1400.98,
+      "orderDate": "2024-05-10",
+      "status": "shipped"
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "productIds": [2],
+      "totalAmount": 999.99,
+      "orderDate": "2024-05-12",
+      "status": "processing"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Main St, Anytown, USA",
+      "phone": "555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Oak St, Anytown, USA",
+      "phone": "555-5678"
+    }
+  ]
+}
+
